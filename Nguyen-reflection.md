@@ -1,0 +1,5 @@
+I was struggling with the syntax needed to fetch from specific repos on gitHub, but that was a minor thing. I feel like I have a pretty good understanding of the Git commands.
+During the GPS, we clarified how GitHub will identify the merge conflict and its exact points of error, making it easier to resolve the issue. 
+We asked eachother and the guide mainly if we were all on the same page, continuously verifying we working on the right material. At one point, I was confused about why my pair partner's repo wasnt showing up in my profile and we discussed how contributors dont own the repo and will not see that in their profile.
+I still have some confusion about the syntax surrounding the fetching of a repo off of other people's github profiles, but I am sure that I will figure it out before or during my next pairing assignment. 
+It was pretty casual. I had trouble with navigating mainly because I just needed getting comfortable with reading the instructions to my pairing partner, while keeping up with what was being shared on our screens. 
